@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<glade-interface>
+  <!-- interface-requires gtk+ 2.16 -->
+  <!-- interface-naming-policy toplevel-contextual -->
+  <widget class="GtkWindow" id="langwindow">
+    <property name="width_request">400</property>
+    <property name="height_request">400</property>
+    <property name="window_position">center</property>
+    <property name="default_width">300</property>
+    <property name="default_height">100</property>
+    <property name="urgency_hint">True</property>
+    <child>
+      <widget class="GtkVBox" id="vbox1">
+        <property name="visible">True</property>
+        <child>
+          <widget class="GtkLabel" id="label1">
+            <property name="visible">True</property>
+            <property name="xalign">0</property>
+            <property name="label" translatable="yes" context="yes">Choose your language:</property>
+          </widget>
+          <packing>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="GtkComboBox" id="cmblang">
+            <property name="visible">True</property>
+          </widget>
+          <packing>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="GtkButton" id="btnok">
+            <property name="label">gtk-ok</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="is_focus">True</property>
+            <property name="receives_default">False</property>
+            <property name="use_stock">True</property>
+          </widget>
+          <packing>
+            <property name="position">2</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</glade-interface>

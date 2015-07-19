@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blocos\n"
+"POT-Creation-Date: 2009-03-26 20:49:38.373275\n"
+"PO-Revision-Date: 2010-06-01 11:51-0300\n"
+"Last-Translator: Joan S. Salelles <jsalelle@gmail.com>\n"
+"Language-Team: CTI <gghgg>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: Spain\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. file 'Blocos.py', line 56
+msgid "Installed GTK+ version is: %s"
+msgstr "Versió instal·lada de GTK+ : %s"
+
+#. file 'Blocos.py', line 57
+msgid "Requested GTK+ version is: %s or better"
+msgstr "Versió necessària de GTK+ : %s o millor"
+
+#. file 'Blocos.py', line 199
+msgid "<no title project>"
+msgstr "<projecte sense títol>"
+
+#. file 'Blocos.py', line 218
+msgid "Code"
+msgstr "Codi"
+
+#. file 'Blocos.py', line 269
+msgid "Version"
+msgstr "Versió"
+
+#. file 'Blocos.py', line 306
+msgid "Tools"
+msgstr "Eines"
+
+#. file 'Blocos.py', line 383
+msgid ""
+"There was a problem with the connection\n"
+"Verify that the board is properly connected with your computer"
+msgstr ""
+"Ha hagut un problema amb la connexió\n"
+"Verifiqueu correcta connexió de la targeta amb l'ordinador"
+
+#. file 'Blocos.py', line 392
+msgid "Undefined function or variable being used"
+msgstr "Funció o variable indefinida usada"
+
+#. file 'Blocos.py', line 394
+msgid "Brackets error"
+msgstr "Error de corxets"
+
+#. file 'Blocos.py', line 396
+msgid "Code block too long"
+msgstr "Bloc de codi massa llarg"
+
+#. file 'Blocos.py', line 398
+msgid "Code too long"
+msgstr "Codi massa llarg"
+
+#. file 'Blocos.py', line 400
+msgid "Too many variables being used"
+msgstr "Massa variables en ús"
+
+#. file 'Blocos.py', line 402
+msgid "Multiple function/variable declaration"
+msgstr "Declaració múltiple de funció o variable"
+
+#. file 'Blocos.py', line 404
+msgid "Parentheses error"
+msgstr "Error de parèntesi"
+
+#. file 'Blocos.py', line 406
+msgid "Compilation or communication error"
+msgstr "Error de compilació o comunicació"
+
+#. file 'Blocos.py', line 408
+msgid "Code successfully sent!"
+msgstr "Codi enviat amb èxit!!"
+
+#. file 'Blocos.py', line 411
+msgid "board connection lost"
+msgstr "Connexió amb targeta perduda"
+
+#. file 'Blocos.py', line 413
+msgid "Some connections are missing in selected blocks"
+msgstr "Falten connexions als blocs  seleccionats"
+
+#. file 'Blocos.py', line 417
+msgid "Set Variable block only accepts variables"
+msgstr "El bloc Canviar Variable només accepta variables"
+
+#. file 'Blocos.py', line 574
+#. file 'Blocos.py', line 607
+msgid "File %s will be overwritten, are you sure you want to proceed?"
+msgstr "Fitxer %s se sobrescriurà, desitja continuar?"
+
+#. file 'Blocos.py', line 601
+msgid "Save..."
+msgstr "Alça..."
+
+#. file 'Blocos.py', line 619
+msgid "Open..."
+msgstr "Obri..."
+
+#. file 'Blocos.py', line 641
+msgid "project"
+msgstr "projecte"
+
+#. file 'gui/sensor.glade', line ?
+#. file 'gui/motors.glade', line ?
+#. file 'gui/variable.glade', line ?
+#. file 'gui/comp.glade', line ?
+#. file 'gui/procedure.glade', line ?
+msgid "Properties"
+msgstr "Propietats"
+
+#. file 'gui/sensor.glade', line ?
+msgid "Choose the sensor:"
+msgstr "Escull sensor:"
+
+#. file 'gui/motors.glade', line ?
+msgid "info"
+msgstr "info"
+
+#. file 'gui/motors.glade', line ?
+msgid "A"
+msgstr "A"
+
+#. file 'gui/motors.glade', line ?
+msgid "B"
+msgstr "B"
+
+#. file 'gui/motors.glade', line ?
+msgid "C"
+msgstr "C"
+
+#. file 'gui/motors.glade', line ?
+msgid "D"
+msgstr "D"
+
+#. file 'gui/motors.glade', line ?
+msgid "AB"
+msgstr "AB"
+
+#. file 'gui/motors.glade', line ?
+msgid "CD"
+msgstr "CD"
+
+#. file 'gui/motors.glade', line ?
+msgid "ABCD"
+msgstr "ABCD"
+
+#. file 'gui/variable.glade', line ?
+msgid "New variable:"
+msgstr "Nova variable:"
+
+#. file 'gui/variable.glade', line ?
+msgid "Choose an already existing variable:"
+msgstr "Escull una variable existent:"
+
+#. file 'gui/main.glade', line ?
+msgid "_File"
+msgstr "_Fitxer"
+
+#. file 'gui/main.glade', line ?
+msgid "_Edit"
+msgstr "_Edita"
+
+#. file 'gui/main.glade', line ?
+msgid "_View"
+msgstr "_Visualitza"
+
+#. file 'gui/main.glade', line ?
+msgid "_Help"
+msgstr "_Ajuda"
+
+#. file 'gui/main.glade', line ?
+msgid "Control"
+msgstr "Control"
+
+#. file 'gui/main.glade', line ?
+msgid "Disposition"
+msgstr "Disposició"
+
+#. file 'gui/main.glade', line ?
+msgid "Flow"
+msgstr "Flux"
+
+#. file 'gui/main.glade', line ?
+msgid "Condition"
+msgstr "Condició"
+
+#. file 'gui/main.glade', line ?
+msgid "Numbers"
+msgstr "Nombres"
+
+#. file 'gui/main.glade', line ?
+msgid "Time"
+msgstr "Temps"
+
+#. file 'gui/main.glade', line ?
+msgid "Others"
+msgstr "Altres"
+
+#. file 'gui/main.glade', line ?
+msgid "Procedures"
+msgstr "Procediments"
+
+#. file 'gui/comp.glade', line ?
+msgid "What kind of comparison?"
+msgstr "Tipus de comparació?"
+
+#. file 'gui/comp.glade', line ?
+msgid "Equal ( = )"
+msgstr "Igualtat ( = )"
+
+#. file 'gui/comp.glade', line ?
+msgid "Less ( < )"
+msgstr "Menor ( < )"
+
+#. file 'gui/comp.glade', line ?
+msgid "More ( > )"
+msgstr "Major ( > )"
+
+#. file 'gui/code.glade', line ?
+msgid "_Exit"
+msgstr "_Tanca"
+
+#. file 'gui/procedure.glade', line ?
+msgid "What is the name of this procedure?"
+msgstr "Quin és el nom d'aquest procediment?"
+
+#. file 'blockcanvas/database.py', line 273
+msgid "Start"
+msgstr "Inici"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "ON"
+msgstr "ENGEGA"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "Which motors should be turned on?"
+msgstr "Quins motors s'han d'engegar?"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "OFF"
+msgstr "ATURA"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "Which motors should be turned off?"
+msgstr "Quins motors s'han d'aturar?"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "BRAKE"
+msgstr "FRENA"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "Which motors should be braked?"
+msgstr "Quins motors s'han de frenar?"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "CW"
+msgstr "SH"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "Which motors should turn clockwise?"
+msgstr "Quins motors han de girar en sentit horari?"
+
+#. file 'blockcanvas/database.py', line 406
+msgid "antiCW"
+msgstr "SAH"
+
+msgid "Which motors should turn anticlockwise?"
+msgstr "Quins motors han de girar en sentit anti-horari?"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "REV"
+msgstr "INV"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "Which motors should be reversed?"
+msgstr "Invertir el sentit de quins motors?"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "ONfor"
+msgstr "ENGper"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "Which motors should be turned on for a while?"
+msgstr "Quins motors s'han d'engegar per un temps?"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POW"
+msgstr "POT"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "Change power of which motors?"
+msgstr "Canviar potència de quins motors?"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POS"
+msgstr "POS"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "Change position of which motors?"
+msgstr "Canviar posició de quins motors?"
+
+#. file 'blockcanvas/database.py', line 602
+#. file 'blockcanvas/database.py', line 605
+msgid "="
+msgstr "="
+
+#. file 'blockcanvas/database.py', line 602
+msgid "<"
+msgstr "<"
+
+#. file 'blockcanvas/database.py', line 602
+msgid ">"
+msgstr ">"
+
+#. file 'blockcanvas/database.py', line 705
+#. file 'blockcanvas/database.py', line 718
+#. file 'blockcanvas/database.py', line 738
+#. file 'blockcanvas/database.py', line 768
+msgid "sensor"
+msgstr "sensor"
+
+#. file 'blockcanvas/database.py', line 790
+#. file 'blockcanvas/database.py', line 803
+#. file 'blockcanvas/database.py', line 823
+#. file 'blockcanvas/database.py', line 853
+msgid "switch"
+msgstr "botó"
+
+#. file 'blockcanvas/database.py', line 936
+msgid "Insert the number"
+msgstr "Insertar número"
+
+#. file 'blockcanvas/database.py', line 942
+msgid "Insert time delay (tenths of second)"
+msgstr "Insertar temps retard (Décimes de segon)"
+
+msgid "V_iew generated code"
+msgstr "M_ostra codi generat"
+

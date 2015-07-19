@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blocos\n"
+"POT-Creation-Date: 2009-03-26 20:49:38.373275\n"
+"PO-Revision-Date: 2010-04-30 11:51-0300\n"
+"Last-Translator: victor oliveira <victormatheus@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language-Team: \n"
+
+#. file 'Blocos.py', line 56
+msgid "Installed GTK+ version is: %s"
+msgstr "Installed GTK+ version is: %s"
+
+#. file 'Blocos.py', line 57
+msgid "Requested GTK+ version is: %s or better"
+msgstr "Requested GTK+ version is: %s or better"
+
+#. file 'Blocos.py', line 199
+msgid "<no title project>"
+msgstr "<no title project>"
+
+#. file 'Blocos.py', line 218
+msgid "Code"
+msgstr "Code"
+
+#. file 'Blocos.py', line 269
+msgid "Version"
+msgstr "Version"
+
+#. file 'Blocos.py', line 306
+msgid "Tools"
+msgstr "Tools"
+
+#. file 'Blocos.py', line 383
+msgid ""
+"There was a problem with the connection\n"
+"Verify that the board is properly connected with your computer"
+msgstr ""
+"There was a problem with the connection\n"
+"Verify that the board is properly connected with your computer"
+
+#. file 'Blocos.py', line 392
+msgid "Undefined function or variable being used"
+msgstr "Undefined function or variable being used"
+
+#. file 'Blocos.py', line 394
+msgid "Brackets error"
+msgstr "Brackets error"
+
+#. file 'Blocos.py', line 396
+msgid "Code block too long"
+msgstr "Code block too long"
+
+#. file 'Blocos.py', line 398
+msgid "Code too long"
+msgstr "Code too long"
+
+#. file 'Blocos.py', line 400
+msgid "Too many variables being used"
+msgstr "Too many variables being used"
+
+#. file 'Blocos.py', line 402
+msgid "Multiple function/variable declaration"
+msgstr "Multiple function/variable declaration"
+
+#. file 'Blocos.py', line 404
+msgid "Parentheses error"
+msgstr "Parentheses error"
+
+#. file 'Blocos.py', line 406
+msgid "Compilation or communication error"
+msgstr "Compilation or communication error"
+
+#. file 'Blocos.py', line 408
+msgid "Code successfully sent!"
+msgstr "Code successfully sent!"
+
+#. file 'Blocos.py', line 411
+msgid "board connection lost"
+msgstr "board connection lost"
+
+#. file 'Blocos.py', line 413
+msgid "Some connections are missing in selected blocks"
+msgstr "Some connections are missing in selected blocks"
+
+#. file 'Blocos.py', line 417
+msgid "Set Variable block only accepts variables"
+msgstr "Set Variable block only accepts variables"
+
+#. file 'Blocos.py', line 574
+#. file 'Blocos.py', line 607
+msgid "File %s will be overwritten, are you sure you want to proceed?"
+msgstr "File %s will be overwritten, are you sure you want to proceed?"
+
+#. file 'Blocos.py', line 601
+msgid "Save..."
+msgstr "Save..."
+
+#. file 'Blocos.py', line 619
+msgid "Open..."
+msgstr "Open..."
+
+#. file 'Blocos.py', line 641
+msgid "project"
+msgstr "project"
+
+#. file 'gui/sensor.glade', line ?
+#. file 'gui/motors.glade', line ?
+#. file 'gui/variable.glade', line ?
+#. file 'gui/comp.glade', line ?
+#. file 'gui/procedure.glade', line ?
+msgid "Properties"
+msgstr "Properties"
+
+#. file 'gui/sensor.glade', line ?
+msgid "Choose the sensor:"
+msgstr "Choose the sensor:"
+
+#. file 'gui/motors.glade', line ?
+msgid "info"
+msgstr "info"
+
+#. file 'gui/motors.glade', line ?
+msgid "A"
+msgstr "A"
+
+#. file 'gui/motors.glade', line ?
+msgid "B"
+msgstr "B"
+
+#. file 'gui/motors.glade', line ?
+msgid "C"
+msgstr "C"
+
+#. file 'gui/motors.glade', line ?
+msgid "D"
+msgstr "D"
+
+#. file 'gui/motors.glade', line ?
+msgid "AB"
+msgstr "AB"
+
+#. file 'gui/motors.glade', line ?
+msgid "CD"
+msgstr "CD"
+
+#. file 'gui/motors.glade', line ?
+msgid "ABCD"
+msgstr "ABCD"
+
+#. file 'gui/variable.glade', line ?
+msgid "New variable:"
+msgstr "New variable:"
+
+#. file 'gui/variable.glade', line ?
+msgid "Choose an already existing variable:"
+msgstr "Choose an already existing variable:"
+
+#. file 'gui/main.glade', line ?
+msgid "_File"
+msgstr "_File"
+
+#. file 'gui/main.glade', line ?
+msgid "_Edit"
+msgstr "_Edit"
+
+#. file 'gui/main.glade', line ?
+msgid "_See"
+msgstr "_See"
+
+#. file 'gui/main.glade', line ?
+msgid "_Help"
+msgstr "_Help"
+
+#. file 'gui/main.glade', line ?
+msgid "Control"
+msgstr "Control"
+
+#. file 'gui/main.glade', line ?
+msgid "Disposition"
+msgstr "Disposition"
+
+#. file 'gui/main.glade', line ?
+msgid "Flow"
+msgstr "Flow"
+
+#. file 'gui/main.glade', line ?
+msgid "Condition"
+msgstr "Condition"
+
+#. file 'gui/main.glade', line ?
+msgid "Numbers"
+msgstr "Numbers"
+
+#. file 'gui/main.glade', line ?
+msgid "Time"
+msgstr "Time"
+
+#. file 'gui/main.glade', line ?
+msgid "Others"
+msgstr "Others"
+
+#. file 'gui/main.glade', line ?
+msgid "Procedures"
+msgstr "Procedures"
+
+#. file 'gui/comp.glade', line ?
+msgid "What kind of comparison?"
+msgstr "What kind of comparison?"
+
+#. file 'gui/comp.glade', line ?
+msgid "Equal ( = )"
+msgstr "Equal ( = )"
+
+#. file 'gui/comp.glade', line ?
+msgid "Less ( < )"
+msgstr "Less ( < )"
+
+#. file 'gui/comp.glade', line ?
+msgid "More ( > )"
+msgstr "More ( > )"
+
+#. file 'gui/code.glade', line ?
+msgid "_Exit"
+msgstr "_Exit"
+
+#. file 'gui/procedure.glade', line ?
+msgid "What is the name of this procedure?"
+msgstr "What is the name of this procedure?"
+
+#. file 'blockcanvas/database.py', line 67
+msgid "NEWPROC::size"
+msgstr "14"
+
+#. file 'blockcanvas/database.py', line 188
+msgid "PROC::size"
+msgstr "14"
+
+#. file 'blockcanvas/database.py', line 273
+msgid "Start"
+msgstr "Start"
+
+#. file 'blockcanvas/database.py', line 273
+msgid "START::size"
+msgstr "14"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "ON"
+msgstr "ON"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "ON::size"
+msgstr "12"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "Which motors should be turned on?"
+msgstr "Which motors should be turned on?"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "OFF"
+msgstr "OFF"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "OFF::size"
+msgstr "8"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "Which motors should be turned off?"
+msgstr "Which motors should be turned off?"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "BRAKE"
+msgstr "BRAKE"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "Which motors should be braked?"
+msgstr "Which motors should be braked?"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "CW"
+msgstr "CW"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "Which motors should turn clockwise?"
+msgstr "Which motors should turn clockwise?"
+
+#. file 'blockcanvas/database.py', line 406
+msgid "antiCW"
+msgstr "antiCW"
+
+#. file 'blockcanvas/database.py', line 406
+msgid "Which motors should turn anticlockwise?"
+msgstr "Which motors should turn anticlockwise?"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "REV"
+msgstr "REV"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "Which motors should be reversed?"
+msgstr "Which motors should be reversed?"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "ONfor"
+msgstr "ONfor"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "Which motors should be turned on for a while?"
+msgstr "Which motors should be turned on for a while?"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POW"
+msgstr "POW"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "Change power of which motors?"
+msgstr "Change power of which motors?"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POS"
+msgstr "POS"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "Change position of which motors?"
+msgstr "Change position of which motors?"
+
+#. file 'blockcanvas/database.py', line 602
+#. file 'blockcanvas/database.py', line 605
+msgid "="
+msgstr "="
+
+#. file 'blockcanvas/database.py', line 602
+msgid "<"
+msgstr "<"
+
+#. file 'blockcanvas/database.py', line 602
+msgid ">"
+msgstr ">"
+
+#. file 'blockcanvas/database.py', line 705
+#. file 'blockcanvas/database.py', line 718
+#. file 'blockcanvas/database.py', line 738
+#. file 'blockcanvas/database.py', line 768
+msgid "sensor"
+msgstr "sensor"
+
+#. file 'blockcanvas/database.py', line 790
+#. file 'blockcanvas/database.py', line 803
+#. file 'blockcanvas/database.py', line 823
+#. file 'blockcanvas/database.py', line 853
+msgid "switch"
+msgstr "switch"
+
+#. file 'blockcanvas/database.py', line 936
+msgid "Insert the number"
+msgstr "Insert the number"
+
+#. file 'blockcanvas/database.py', line 942
+msgid "Insert time delay (tenths of second)"
+msgstr "Insert time delay (tenths of second)"
+
+msgid "V_iew generated code"
+msgstr "V_iew generated code"
+

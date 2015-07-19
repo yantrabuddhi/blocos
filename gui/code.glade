@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<glade-interface>
+  <!-- interface-requires gtk+ 2.16 -->
+  <!-- interface-naming-policy toplevel-contextual -->
+  <widget class="GtkWindow" id="winCode">
+    <property name="width_request">400</property>
+    <property name="height_request">400</property>
+    <property name="window_position">center</property>
+    <property name="default_width">400</property>
+    <property name="default_height">400</property>
+    <property name="urgency_hint">True</property>
+    <property name="deletable">False</property>
+    <child>
+      <widget class="GtkVBox" id="vbox2">
+        <property name="visible">True</property>
+        <child>
+          <widget class="GtkScrolledWindow" id="scrolledwindow2">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="hscrollbar_policy">automatic</property>
+            <child>
+              <widget class="GtkTextView" id="txtCode">
+                <property name="visible">True</property>
+                <property name="border_width">5</property>
+                <property name="editable">False</property>
+                <property name="wrap_mode">word</property>
+              </widget>
+            </child>
+          </widget>
+          <packing>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="GtkButton" id="btnExit">
+            <property name="label" translatable="yes">_Exit</property>
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="receives_default">False</property>
+            <property name="use_underline">True</property>
+          </widget>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">False</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</glade-interface>

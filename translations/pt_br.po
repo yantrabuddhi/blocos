@@ -1,0 +1,835 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blocos\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-20 09:37-0300\n"
+"Last-Translator: victor oliveira <victormatheus@gmail.com>\n"
+"Language-Team: CTI <gghgg>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. file 'Blocos.py', line 56
+msgid "Installed GTK+ version is: %s"
+msgstr "A versão instalada do GTK é: %s"
+
+#. file 'Blocos.py', line 57
+msgid "Requested GTK+ version is: %s or better"
+msgstr "Versão necessária do GTK+ é: %s ou melhor"
+
+#. file 'Blocos.py', line 199
+msgid "<no title project>"
+msgstr "<projeto sem título>"
+
+#. file 'Blocos.py', line 218
+msgid "Code"
+msgstr "Código"
+
+#. file 'Blocos.py', line 269
+msgid "Version"
+msgstr "Versão"
+
+#. file 'Blocos.py', line 306
+msgid "Tools"
+msgstr "Ferramentas"
+
+#. file 'Blocos.py', line 383
+msgid ""
+"There were a problem with the connection\n"
+"Verify if the gogoboard is properly connected with your computer"
+msgstr ""
+"Houve um problema com a conexão\n"
+"Verifique se a placa está corretamente conectada com o seu computador"
+
+#. file 'Blocos.py', line 392
+msgid "Undefinied function or variable being used"
+msgstr "Função ou váriável indefinida sendo usada"
+
+#. file 'Blocos.py', line 394
+msgid "Brackets error"
+msgstr "Erro de colchetes"
+
+#. file 'Blocos.py', line 396
+msgid "Too long code block"
+msgstr "Código muito longo"
+
+#. file 'Blocos.py', line 398
+msgid "Too long code"
+msgstr "Código muito grande"
+
+#. file 'Blocos.py', line 400
+msgid "Too many variables being used"
+msgstr "Muitas variáveis sendo usadas"
+
+#. file 'Blocos.py', line 402
+msgid "Multiple function/variable declaration"
+msgstr "Declaração múltipla de função ou variável"
+
+#. file 'Blocos.py', line 404
+msgid "Parentheses error"
+msgstr "Erro de parênteses"
+
+#. file 'Blocos.py', line 406
+msgid "Compilation or communication error"
+msgstr "Erro de compilação ou comunicação"
+
+#. file 'Blocos.py', line 408
+msgid "Code successfully sent!"
+msgstr "Código enviado com sucesso!"
+
+#. file 'Blocos.py', line 411
+msgid "gogoBoard connection lost"
+msgstr "Conexão perdida com a placa"
+
+#. file 'Blocos.py', line 574
+#. file 'Blocos.py', line 607
+msgid "File %s will be overwritten, are you sure to proceed?"
+msgstr "Arquivo %s será sobrescrito, deseja continuar?"
+
+#. file 'Blocos.py', line 601
+msgid "Save..."
+msgstr "Salvar..."
+
+#. file 'Blocos.py', line 619
+msgid "Open..."
+msgstr "Abrir..."
+
+#. file 'Blocos.py', line 641
+msgid "project"
+msgstr "projeto"
+
+#. file 'gui/sensor.glade', line ?
+#. file 'gui/motors.glade', line ?
+#. file 'gui/variable.glade', line ?
+#. file 'gui/comp.glade', line ?
+#. file 'gui/procedure.glade', line ?
+msgid "Properties"
+msgstr "Propriedades"
+
+#. file 'gui/sensor.glade', line ?
+msgid "Choose the sensor:"
+msgstr "Escolha o sensor:"
+
+#. file 'gui/motors.glade', line ?
+msgid "info"
+msgstr "info"
+
+#. file 'gui/motors.glade', line ?
+msgid "A"
+msgstr "A"
+
+#. file 'gui/motors.glade', line ?
+msgid "B"
+msgstr "B"
+
+#. file 'gui/motors.glade', line ?
+msgid "C"
+msgstr "C"
+
+#. file 'gui/motors.glade', line ?
+msgid "D"
+msgstr "D"
+
+#. file 'gui/motors.glade', line ?
+msgid "AB"
+msgstr "AB"
+
+#. file 'gui/motors.glade', line ?
+msgid "CD"
+msgstr "CD"
+
+#. file 'gui/motors.glade', line ?
+msgid "ABCD"
+msgstr "ABCD"
+
+#. file 'gui/variable.glade', line ?
+msgid "New variable:"
+msgstr "Nova variável"
+
+#. file 'gui/variable.glade', line ?
+msgid "Choose an already existing variable:"
+msgstr "Escolher uma variável já existente:"
+
+#. file 'gui/main.glade', line ?
+msgid "_File"
+msgstr "_Arquivo"
+
+#. file 'gui/main.glade', line ?
+msgid "_Edit"
+msgstr "_Editar"
+
+#. file 'gui/main.glade', line ?
+msgid "_See"
+msgstr "_Ver"
+
+#. file 'gui/main.glade', line ?
+msgid "_Help"
+msgstr "_Ajuda"
+
+#. file 'gui/main.glade', line ?
+msgid "Control"
+msgstr "Controle"
+
+#. file 'gui/main.glade', line ?
+msgid "Disposition"
+msgstr "Disposição"
+
+#. file 'gui/main.glade', line ?
+msgid "Flow"
+msgstr "Fluxo"
+
+#. file 'gui/main.glade', line ?
+msgid "Condition"
+msgstr "Condição"
+
+#. file 'gui/main.glade', line ?
+msgid "Numbers"
+msgstr "Números"
+
+#. file 'gui/main.glade', line ?
+msgid "Time"
+msgstr "Tempo"
+
+#. file 'gui/main.glade', line ?
+msgid "Others"
+msgstr "Outros"
+
+#. file 'gui/main.glade', line ?
+msgid "Procedures"
+msgstr "Procedimentos"
+
+#. file 'gui/comp.glade', line ?
+msgid "What kind of comparison?"
+msgstr "Qual tipo de comparação?"
+
+#. file 'gui/comp.glade', line ?
+msgid "Equal ( = )"
+msgstr "Igualdade ( = )"
+
+#. file 'gui/comp.glade', line ?
+msgid "Less ( < )"
+msgstr "Menor ( < )"
+
+#. file 'gui/comp.glade', line ?
+msgid "More ( > )"
+msgstr "Maior ( > )"
+
+#. file 'gui/code.glade', line ?
+msgid "_Exit"
+msgstr "_Sair"
+
+#. file 'gui/procedure.glade', line ?
+msgid "What is the name of this procedure?"
+msgstr "Qual é o nome deste procedimento?"
+
+#. file 'blockcanvas/database.py', line 67
+msgid "NEWPROC::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 188
+msgid "PROC::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 273
+msgid "Start"
+msgstr "Início"
+
+#. file 'blockcanvas/database.py', line 273
+msgid "START::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 390
+msgid "ON"
+msgstr "LIG"
+
+#. file 'blockcanvas/database.py', line 390
+msgid "ON::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 390
+msgid "Which engines should be turned on?"
+msgstr "Quais motores devem ser ligados?"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "OFF"
+msgstr "DESL"
+
+#. file 'blockcanvas/database.py', line 394
+msgid "OFF::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 394
+msgid "Which motors should be turned off?"
+msgstr "Quais motores devem ser desligados?"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "BRAKE"
+msgstr "FREAR"
+
+#. file 'blockcanvas/database.py', line 398
+#, fuzzy
+msgid "BRAKE::size"
+msgstr "FREAR"
+
+#. file 'blockcanvas/database.py', line 398
+msgid "Which motors should be braked?"
+msgstr "Quais motores devem ser freados?"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "CW"
+msgstr "PrCá"
+
+#. file 'blockcanvas/database.py', line 402
+msgid "CW::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 402
+msgid "Which engines should turn clockwise?"
+msgstr "Quais motores devem girar em sentido horário?"
+
+#. file 'blockcanvas/database.py', line 406
+msgid "antiCW"
+msgstr "PrLá"
+
+#. file 'blockcanvas/database.py', line 406
+#, fuzzy
+msgid "antiCW::size"
+msgstr "PrLá"
+
+#. file 'blockcanvas/database.py', line 406
+msgid "Which engines should turn anticlockwise?"
+msgstr "Que motores devem girar em sentido anti-horário?"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "REV"
+msgstr "REV"
+
+#. file 'blockcanvas/database.py', line 410
+msgid "REV::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 410
+msgid "Which engines should be reversed?"
+msgstr "Inverter o sentido de que motores?"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "ONfor"
+msgstr "LIGp"
+
+#. file 'blockcanvas/database.py', line 423
+#, fuzzy
+msgid "ONfor::size"
+msgstr "LIGp"
+
+#. file 'blockcanvas/database.py', line 423
+msgid "Which engines should be turned on for a while?"
+msgstr "Quais motores devem ser acionados por um tempo?"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POW"
+msgstr "POT"
+
+#. file 'blockcanvas/database.py', line 427
+msgid "POW::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 427
+msgid "Change power of which engines?"
+msgstr "Alterar potência de quais motores?"
+
+#. file 'blockcanvas/database.py', line 602
+#. file 'blockcanvas/database.py', line 605
+msgid "="
+msgstr "="
+
+#. file 'blockcanvas/database.py', line 602
+msgid "<"
+msgstr "<"
+
+#. file 'blockcanvas/database.py', line 602
+msgid ">"
+msgstr ">"
+
+#. file 'blockcanvas/database.py', line 605
+msgid "COMP::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 705
+#. file 'blockcanvas/database.py', line 718
+#. file 'blockcanvas/database.py', line 738
+#. file 'blockcanvas/database.py', line 768
+msgid "sensor"
+msgstr "sensor"
+
+#. file 'blockcanvas/database.py', line 707
+msgid "SENSOR::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 790
+#. file 'blockcanvas/database.py', line 803
+#. file 'blockcanvas/database.py', line 823
+#. file 'blockcanvas/database.py', line 853
+msgid "switch"
+msgstr "botão"
+
+#. file 'blockcanvas/database.py', line 792
+msgid "SWITCH::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 889
+msgid "NUMBER::size"
+msgstr ""
+
+#. file 'blockcanvas/database.py', line 936
+msgid "Insert the number"
+msgstr "Digite o número"
+
+#. file 'blockcanvas/database.py', line 942
+msgid "Insert time delay (tenths of second)"
+msgstr "Digite o tempo (Décimos de segundo)"
+
+#. file 'blockcanvas/database.py', line 1015
+msgid "VAR::size"
+msgstr ""
+
+#. file 'gui/main.glade'
+msgid "_Tools"
+msgstr "Ferramentas"
+
+#. file 'gui/main.glade'
+msgid "Open _Monitor"
+msgstr "Abrir _Monitor"
+
+#. file 'Blocos.py'
+msgid ""
+"There are unsaved alterations in your project, press OK to close without "
+"saving, Save to save and close, or Cancel."
+msgstr ""
+"Existem alterações no seu projeto que ainda não foram salvas, pressionde OK "
+"para sair sem salvar, Savar para salvar e sair ou Cancelar."
+
+#. blablablablablab
+msgid "Choose timer:"
+msgstr "Escolha o timer:"
+
+#. file 'commands.py'
+msgid "Timer in ms, max time : 1 minute"
+msgstr "Timer em ms, tempo máximo: 1 minuto"
+
+#. file 'commands.py'
+msgid "Timer in ds, max time : 100 minute"
+msgstr "Timer em ds, tempo máximo: 100 minutos"
+
+#. file 'monitor.py'
+msgid ""
+"There was a problem with the connection\n"
+"Verify that the board is properly connected with your computer"
+msgstr ""
+"Houve um problema com a conexão\n"
+"Verifique se a placa está corretamente conectada com o seu computador"
+
+#. file 'monitor.py'
+msgid "GoGo connected on:"
+msgstr "GoGo conectada em:"
+
+#. file 'main.glade'
+msgid "_View"
+msgstr "_Ver"
+
+#. file 'main.glade'
+msgid "V_iew generated code"
+msgstr "V_er código gerado"
+
+#. file 'main.glade'
+msgid "Board Monitor"
+msgstr "Monitor da Placa"
+
+#. file 'main.glade'
+msgid "Text Mode"
+msgstr "Modo Texto"
+
+#. file 'monitor.glade'
+msgid "Data Upload"
+msgstr "Carregar Dados"
+
+#. file 'monitor.glade'
+msgid "Motors"
+msgstr "Motores"
+
+#. file 'monitor.glade'
+msgid "Select:"
+msgstr "Selecionar:"
+
+#. file 'monitor.glade'
+msgid "<b>Control:</b>"
+msgstr "<b>Controle:</b>"
+
+#. file 'monitor.glade'
+msgid "On"
+msgstr "Ligar"
+
+#. file 'monitor.glade'
+msgid "Off"
+msgstr "Desligar"
+
+#. file 'monitor.glade'
+msgid "Stop"
+msgstr "Parar"
+
+#. file 'monitor.glade'
+msgid "<b>Power:</b>"
+msgstr "<b>Potência:</b>"
+
+#. file 'monitor.glade'
+msgid "Set"
+msgstr "Definir"
+
+#. file 'monitor.glade'
+msgid "<b>Motor Direction:</b>"
+msgstr "<b>Direção do Motor:</b>"
+
+#. file 'monitor.glade'
+msgid "This way"
+msgstr "Para cá"
+
+#. file 'monitor.glade'
+msgid "That way"
+msgstr "Para lá"
+
+#. file 'monitor.glade'
+msgid "Reverse"
+msgstr "Inverter"
+
+#. file 'monitor.glade'
+msgid "Default"
+msgstr "Padrão"
+
+#. file 'monitor.glade'
+msgid "Servo Motors"
+msgstr "Servomotores"
+
+#. file 'monitor.glade'
+msgid "<b>Sensors</b>"
+msgstr "<b>Sensores</b>"
+
+#. file 'monitor.glade'
+msgid "Burst mode"
+msgstr "Modo rajada"
+
+#. file 'monitor.glade'
+msgid "Fast"
+msgstr "Rápido"
+
+#. file 'monitor.glade'
+msgid "Slow"
+msgstr "Lento"
+
+#. file 'monitor.glade'
+msgid "Refresh All"
+msgstr "Atualizar"
+
+#. file 'monitor.glade'
+msgid "Update Rate"
+msgstr "Taxa de atualização"
+
+#. file 'monitor.glade'
+msgid "<b>Other</b>"
+msgstr "<b>Outro</b>"
+
+#. file 'monitor.glade'
+msgid "Beep"
+msgstr "Bipe"
+
+#. file 'monitor.glade'
+msgid "LED On"
+msgstr "Ligar LED"
+
+#. file 'monitor.glade'
+msgid "LED Off"
+msgstr "Desligar LED"
+
+#. file 'monitor.glade'
+msgid "<b>Upload</b>"
+msgstr "<b>Carregar</b>"
+
+#. file 'monitor.glade'
+msgid "Start:"
+msgstr "Iniciar:"
+
+#. file 'monitor.glade'
+msgid "Automatic"
+msgstr "Automático"
+
+#. file 'monitor.glade'
+msgid "Specify Upload Length:"
+msgstr "Especificar quantidade de dados a serem carregados"
+
+#. file 'monitor.glade'
+msgid "Blocks:"
+msgstr "Blocos:"
+
+#. file 'monitor.glade'
+msgid "(1 block = 16 values)"
+msgstr "(1 bloco = 16 valores)"
+
+#. file 'monitor.glade'
+msgid "<b>Recorded Data</b>"
+msgstr "<b>Dados gravados</b>"
+
+#. file 'monitor.glade'
+msgid "Table"
+msgstr "Tabela"
+
+#. file 'monitor.glade'
+msgid "Graph"
+msgstr "Gráfico"
+
+#. file 'monitor.glade'
+msgid "Columns:"
+msgstr "Colunas:"
+
+#. file 'monitor.glade'
+msgid "Headers:"
+msgstr "Cabeçalhos:"
+
+#. file 'monitor.glade'
+msgid "Show"
+msgstr "Mostrar"
+
+#. file 'monitor.glade'
+msgid "2 Lines"
+msgstr "2 Linhas"
+
+#. file 'monitor.glade'
+msgid "Clear"
+msgstr "Limpar"
+
+#. file 'monitor.glade'
+msgid "Save"
+msgstr "Salvar"
+
+#. file 'monitor.glade'
+msgid "0 Values"
+msgstr "0 Valores"
+
+#. file 'monitor.glade'
+msgid "Sensor Lab"
+msgstr "Laboratório de Sensor"
+
+#. file 'monitor.glade'
+msgid "<b>Sensor Types</b>  (can be used in the Console and Data Upload tabs)"
+msgstr ""
+"<b>Tipos de Sensor</b>  (pode ser usado nas abas Console e Carregar Dados)"
+
+#. file 'monitor.glade'
+msgid "Add"
+msgstr "Adicionar"
+
+#. file 'monitor.glade'
+msgid "Remove"
+msgstr "Remover"
+
+#. file 'monitor.glade'
+msgid "Import"
+msgstr "Importar"
+
+#. file 'monitor.glade'
+msgid "Export"
+msgstr "Exportar"
+
+#. file 'monitor.glade'
+msgid "Export CSV"
+msgstr "Exportar CSV"
+
+#. file 'monitor.glade'
+msgid "<b>Sensor Points: </b>Name (Units)"
+msgstr "<b>Pontos do Sensor: </b>Nome (Unidades)"
+
+#. file 'monitor.glade'
+msgid "Description"
+msgstr "Descrição"
+
+#. file 'monitor.glade'
+msgid "Insert Point"
+msgstr "Inserir Ponto"
+
+#. file 'monitor.glade'
+msgid "Remove Point"
+msgstr "Remover Ponto"
+
+#. file 'monitor.glade'
+msgid "GoGo Value"
+msgstr "Valor da GoGo"
+
+#. file 'monitor.glade'
+msgid "Real Value"
+msgstr "Valor Real"
+
+#. file 'monitor.glade'
+msgid "Minimum:"
+msgstr "Mínimo:"
+
+#. file 'monitor.glade'
+msgid "Maximum:"
+msgstr "Máximo:"
+
+#. file 'monitor.glade'
+msgid "Define Step"
+msgstr "Definir Passo"
+
+#. file 'monitor.glade'
+msgid "Choose between 0 and 255"
+msgstr "Escolha um valor entre 0 e 255"
+
+#. file 'tabs/UploadTab.py'
+msgid "Data successfully uploaded."
+msgstr "Código enviado com sucesso."
+
+#. file 'tabs/UploadTab.py'
+msgid "Check GoGo plugged in, turned on and connected"
+msgstr "Verifique se a GoGo está conectada e ligada"
+
+#. file 'tabs/UploadTab.py'
+msgid "Error communicating"
+msgstr "Erro comunicando"
+
+#. file 'tabs/UploadTab.py'
+msgid "Save As.."
+msgstr "Salvar..."
+
+#. file 'tabs/SensorsTab.py'
+msgid "Name"
+msgstr "Nome"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Unit"
+msgstr "Unidade"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Standard"
+msgstr "Padrão"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Error: unrecognised file type: %s. Use *.csv or *.sensor files."
+msgstr ""
+"Erro: tipo de arquivo não reconhecido: %s. Use arquivos *.csv ou *.sensor"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Error: Select sensor."
+msgstr "Erro: Selecione um sensor."
+
+#. file 'tabs/SensorsTab.py'
+msgid "None"
+msgstr "Nada"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Raw values"
+msgstr "Valores Real"
+
+#. file 'tabs/SensorsTab.py'
+msgid "Open.."
+msgstr "Abrir..."
+
+#. file 'tabs/SensorsTab.py'
+msgid "At least two points required!"
+msgstr "Ao menos dois pontos são necessários!"
+
+#. file 'tabs/UploadTab.py'
+msgid "%i Values Uploaded"
+msgstr "%i Valores Carregados"
+
+#. file 'gui/text.glade'
+msgid "Compile"
+msgstr "Compilar"
+
+#. file 'gui/text.glade'
+msgid "Get From Blocks"
+msgstr "Carregar do Blocos"
+
+#. file 'gui/text.glade'
+msgid "Download"
+msgstr "Baixar Programa"
+
+#. file 'textmode.py'
+msgid "The procedures will be overwritten, are you sure you want to proceed?"
+msgstr "Os procedimentos serão sobrescritos, deseja continuar?"
+
+#. file 'textmode.py'
+msgid "Could not open file: %s"
+msgstr "Não é possível abrir o arquivo: %s"
+
+#. file 'textmode.py'
+msgid "Loading %s"
+msgstr "Carregando %s"
+
+#. file 'textmode.py'
+msgid "Save File..."
+msgstr "Salvar Arquivo..."
+
+#. file 'textmode.py'
+msgid "Overwrite?"
+msgstr "Sobrescrever?"
+
+#. file 'textmode.py'
+msgid "This file already exists. Want to overwrite?"
+msgstr "Este arquivo já existe. Deseja sobrescrevê-lo?"
+
+#. file 'textmode.py'
+msgid "Save?"
+msgstr "Salvar?"
+
+#. file 'textmode.py'
+msgid "Do you want to save the changes you have made?"
+msgstr "Deseja salvar as alterações que você fez?"
+
+#. file 'textmode.py'
+msgid "Logo Procedures Editor"
+msgstr "Editor de Procedimentos Logo"
+
+#. file 'textmode.py'
+msgid "Open File..."
+msgstr "Abrir Arquivo..."
+
+#. file 'textmode.py'
+msgid "Saving %s"
+msgstr "Salvando %s"
+
+#. file 'textmode.py'
+msgid "Could not save file: %s"
+msgstr "Não é possível salvar o arquivo: %s"
+
+#. file 'textmode.py'
+msgid "File:"
+msgstr "Arquivo:"
+
+#. file 'textmode.py'
+msgid "File: %s"
+msgstr "Arquivo: %s"
+
+#. file 'textmode.py'
+msgid "The file may not have dot"
+msgstr "O arquivo não deve conter ponto final"
+
+#~ msgid "Other"
+#~ msgstr "Outros"
+
+#~ msgid "Code block too long"
+#~ msgstr "Bloco de código muito longo"
+
+#~ msgid "Code too long"
+#~ msgstr "Código muito longo"
+
+#~ msgid "Some connections are missing in selected blocks"
+#~ msgstr "Algumas conexões estão faltando nos blocos selecionados"
+
+#~ msgid "Set Variable block only accepts variables"
+#~ msgstr "O bloco Mudar Variável só aceita variáveis"
+
+#~ msgid "POS"
+#~ msgstr "POS"
+
+#~ msgid "Change position of which motors?"
+#~ msgstr "Alterar posição de que motores?"
